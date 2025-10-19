@@ -25,8 +25,8 @@ The ScrapeFlow pipeline is executed in a five-step process:
 
 1.  **Scraping:** 🌐 Access a list of **10 target URLs** to scrape relevant text content and associated image URLs.
 2.  **Entity Extraction:** 🧠 Utilize the configured DSPy pipeline, guided by Pydantic schemas, to extract structured `entity` and `attr_type` (tag and tag type) from the text.
-3.  **Data Cleaning:** 🧹 **Deduplicate and validate** the extracted entities to ensure quality and consistency.
-4.  **Visualization:** 📈 Generate **Mermaid graphs** to visualize simple relationships and connections between the extracted entities.
+3.  **Data Cleaning:** 🧹 **Deduplicate and validate** the extracted entities to ensure quality and consistency with [LogCat](https://longcat.chat/).
+4.  **Visualization:** 📈 Generate **[Mermaid graphs](https://mermaid.live/edit) ** to visualize simple relationships and connections between the extracted entities.
 5.  **Data Export:** 💾 Save the final, validated results to a structured output file, **`tags.csv`**.
 
 ### 📊 Example Output (`tags.csv`)
