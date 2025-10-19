@@ -50,9 +50,10 @@ Potential improvements and extensions to ScrapeFlow:
 
 ## 👨‍💻 Author
 
-**Aashish Gupta**
-AI & Software Developer
+**Aashish Gupta**  
+AI & Software Developer  
+[LinkedIn](https://www.linkedin.com/in/aashish2k1s) | [GitHub](https://github.com/Aashish2k1S)  
 
-[LinkedIn](https://www.linkedin.com/in/aashish2k1s) | [GitHub](https://github.com/Aashish2k1S)
+---
 
-> 🌱 **“The fastest way to learn AI is to build something that scares you a little.”**
+> 🌱 **“The fastest way to learn AI is to build something that scares you a little.”**  
